@@ -1,0 +1,13 @@
+{
+  "name": "angular-seed",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "angular-resource": "~1.4.1",
+    "moment": "~2.10.3",
+    "angular-material": "~0.10.0"
+  }
+}
